@@ -3,7 +3,8 @@ body {
   color: #555;
   margin: 0 0;
   /*font-family: "Oxygen", sans-serif;*/
-  font-family: "Open Sans";
+  /*font-family: "Open Sans";*/
+  font-family: "Verdana";
   font-weight: 400;
   overflow-x: hidden;
 }
